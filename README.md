@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AtulTiwari25/LeetCode/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/AtulTiwari25/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AtulTiwari25/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AtulTiwari25/LeetCode/tree/master/0054-spiral-matrix) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AtulTiwari25/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1813-maximum-erasure-value](https://github.com/AtulTiwari25/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AtulTiwari25/LeetCode/tree/master/0054-spiral-matrix) |
 | [2479-meeting-rooms-iii](https://github.com/AtulTiwari25/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Trie
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/AtulTiwari25/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0052-n-queens-ii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AtulTiwari25/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
