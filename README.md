@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AtulTiwari25/LeetCode/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/AtulTiwari25/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/AtulTiwari25/LeetCode/tree/master/0053-maximum-subarray) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AtulTiwari25/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1813-maximum-erasure-value](https://github.com/AtulTiwari25/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AtulTiwari25/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AtulTiwari25/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/AtulTiwari25/LeetCode/tree/master/0053-maximum-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AtulTiwari25/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AtulTiwari25/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AtulTiwari25/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AtulTiwari25/LeetCode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
