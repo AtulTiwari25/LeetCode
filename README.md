@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AtulTiwari25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AtulTiwari25/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AtulTiwari25/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AtulTiwari25/LeetCode/tree/master/0056-merge-intervals) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AtulTiwari25/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1813-maximum-erasure-value](https://github.com/AtulTiwari25/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AtulTiwari25/LeetCode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/AtulTiwari25/LeetCode/tree/master/0056-merge-intervals) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AtulTiwari25/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/AtulTiwari25/LeetCode/tree/master/2479-meeting-rooms-iii) |
