@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0112-path-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Function
@@ -194,15 +195,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0112-path-sum) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0112-path-sum) |
 ## Segment Tree
 |  |
 | ------- |
