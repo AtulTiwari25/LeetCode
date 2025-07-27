@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AtulTiwari25/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AtulTiwari25/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AtulTiwari25/LeetCode/tree/master/0056-merge-intervals) |
+| [0120-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0120-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AtulTiwari25/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1813-maximum-erasure-value](https://github.com/AtulTiwari25/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AtulTiwari25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AtulTiwari25/LeetCode/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/AtulTiwari25/LeetCode/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0120-triangle) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AtulTiwari25/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AtulTiwari25/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
