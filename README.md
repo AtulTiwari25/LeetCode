@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AtulTiwari25/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AtulTiwari25/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0097-interleaving-string](https://github.com/AtulTiwari25/LeetCode/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AtulTiwari25/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/AtulTiwari25/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AtulTiwari25/LeetCode/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/AtulTiwari25/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AtulTiwari25/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AtulTiwari25/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AtulTiwari25/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AtulTiwari25/LeetCode/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AtulTiwari25/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Matrix
 |  |
