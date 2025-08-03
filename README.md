@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0113-path-sum-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Function
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AtulTiwari25/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AtulTiwari25/LeetCode/tree/master/0077-combinations) |
+| [0113-path-sum-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AtulTiwari25/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Matrix
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0113-path-sum-ii) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0113-path-sum-ii) |
 ## Segment Tree
 |  |
 | ------- |
