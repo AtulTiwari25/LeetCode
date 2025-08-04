@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AtulTiwari25/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AtulTiwari25/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0097-interleaving-string](https://github.com/AtulTiwari25/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/AtulTiwari25/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AtulTiwari25/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AtulTiwari25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AtulTiwari25/LeetCode/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/AtulTiwari25/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/AtulTiwari25/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
