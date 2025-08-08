@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AtulTiwari25/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AtulTiwari25/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AtulTiwari25/LeetCode/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/AtulTiwari25/LeetCode/tree/master/0089-gray-code) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtulTiwari25/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AtulTiwari25/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AtulTiwari25/LeetCode/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/AtulTiwari25/LeetCode/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AtulTiwari25/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/AtulTiwari25/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/AtulTiwari25/LeetCode/tree/master/0136-single-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AtulTiwari25/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AtulTiwari25/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
