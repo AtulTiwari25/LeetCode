@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AtulTiwari25/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AtulTiwari25/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AtulTiwari25/LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/AtulTiwari25/LeetCode/tree/master/0136-single-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AtulTiwari25/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AtulTiwari25/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AtulTiwari25/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/AtulTiwari25/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AtulTiwari25/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtulTiwari25/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/0101-symmetric-tree) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AtulTiwari25/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AtulTiwari25/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/AtulTiwari25/LeetCode/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AtulTiwari25/LeetCode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
