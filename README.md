@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AtulTiwari25/LeetCode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/AtulTiwari25/LeetCode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/AtulTiwari25/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0342-power-of-four](https://github.com/AtulTiwari25/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtulTiwari25/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AtulTiwari25/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/AtulTiwari25/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/AtulTiwari25/LeetCode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/AtulTiwari25/LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/AtulTiwari25/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/AtulTiwari25/LeetCode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/AtulTiwari25/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AtulTiwari25/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AtulTiwari25/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
