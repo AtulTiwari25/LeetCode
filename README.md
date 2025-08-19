@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AtulTiwari25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AtulTiwari25/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/AtulTiwari25/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AtulTiwari25/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AtulTiwari25/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AtulTiwari25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AtulTiwari25/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
