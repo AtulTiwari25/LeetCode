@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/AtulTiwari25/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AtulTiwari25/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AtulTiwari25/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/AtulTiwari25/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/AtulTiwari25/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtulTiwari25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AtulTiwari25/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AtulTiwari25/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/AtulTiwari25/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AtulTiwari25/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -233,10 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AtulTiwari25/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AtulTiwari25/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtulTiwari25/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1628-count-submatrices-with-all-ones](https://github.com/AtulTiwari25/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AtulTiwari25/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
 |  |
@@ -294,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/AtulTiwari25/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/AtulTiwari25/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
