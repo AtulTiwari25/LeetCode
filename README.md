@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/AtulTiwari25/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AtulTiwari25/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/AtulTiwari25/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/AtulTiwari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AtulTiwari25/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AtulTiwari25/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AtulTiwari25/LeetCode/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/AtulTiwari25/LeetCode/tree/master/0125-valid-palindrome) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AtulTiwari25/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Enumeration
 |  |
