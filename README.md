@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AtulTiwari25/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AtulTiwari25/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AtulTiwari25/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/AtulTiwari25/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AtulTiwari25/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AtulTiwari25/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AtulTiwari25/LeetCode/tree/master/0089-gray-code) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AtulTiwari25/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/AtulTiwari25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AtulTiwari25/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AtulTiwari25/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AtulTiwari25/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/AtulTiwari25/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AtulTiwari25/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/AtulTiwari25/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AtulTiwari25/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
