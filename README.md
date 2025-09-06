@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AtulTiwari25/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/AtulTiwari25/LeetCode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/AtulTiwari25/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0118-pascals-triangle) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AtulTiwari25/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/AtulTiwari25/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/AtulTiwari25/LeetCode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/AtulTiwari25/LeetCode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/AtulTiwari25/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/AtulTiwari25/LeetCode/tree/master/0097-interleaving-string) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AtulTiwari25/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/AtulTiwari25/LeetCode/tree/master/0068-text-justification) |
 | [2479-meeting-rooms-iii](https://github.com/AtulTiwari25/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Trie
 |  |
