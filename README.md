@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AtulTiwari25/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/AtulTiwari25/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/AtulTiwari25/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/AtulTiwari25/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/AtulTiwari25/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AtulTiwari25/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/AtulTiwari25/LeetCode/tree/master/0097-interleaving-string) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/AtulTiwari25/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtulTiwari25/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AtulTiwari25/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AtulTiwari25/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
