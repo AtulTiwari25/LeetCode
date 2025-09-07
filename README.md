@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/AtulTiwari25/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/AtulTiwari25/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AtulTiwari25/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AtulTiwari25/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AtulTiwari25/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/AtulTiwari25/LeetCode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/AtulTiwari25/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AtulTiwari25/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/AtulTiwari25/LeetCode/tree/master/0069-sqrtx) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AtulTiwari25/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Divide and Conquer
