@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AtulTiwari25/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/AtulTiwari25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtulTiwari25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AtulTiwari25/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/AtulTiwari25/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AtulTiwari25/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AtulTiwari25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AtulTiwari25/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/AtulTiwari25/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AtulTiwari25/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/AtulTiwari25/LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/AtulTiwari25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AtulTiwari25/LeetCode/tree/master/0125-valid-palindrome) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AtulTiwari25/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Enumeration
