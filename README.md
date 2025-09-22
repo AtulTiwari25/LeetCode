@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AtulTiwari25/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AtulTiwari25/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Function
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/AtulTiwari25/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AtulTiwari25/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtulTiwari25/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AtulTiwari25/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AtulTiwari25/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AtulTiwari25/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AtulTiwari25/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AtulTiwari25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/AtulTiwari25/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AtulTiwari25/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Segment Tree
 |  |
 | ------- |
