@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AtulTiwari25/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/AtulTiwari25/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtulTiwari25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AtulTiwari25/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AtulTiwari25/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AtulTiwari25/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/AtulTiwari25/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AtulTiwari25/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AtulTiwari25/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AtulTiwari25/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/AtulTiwari25/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/AtulTiwari25/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1813-maximum-erasure-value](https://github.com/AtulTiwari25/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/AtulTiwari25/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -375,5 +377,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AtulTiwari25/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AtulTiwari25/LeetCode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
